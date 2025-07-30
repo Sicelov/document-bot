@@ -4,4 +4,4 @@ langchain-community
 faiss-cpu
 python-dotenv
 streamlit
-
+pypdf
